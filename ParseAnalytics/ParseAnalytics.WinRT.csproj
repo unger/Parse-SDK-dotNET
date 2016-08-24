@@ -118,10 +118,6 @@
       <Project>{de07a443-9619-4bd7-b540-41296f8a2959}</Project>
       <Name>ParseCommon.Portable</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ParseCore\ParseCore.Portable.csproj">
-      <Project>{f3f65351-2ce1-4412-84b4-c36f34eab928}</Project>
-      <Name>ParseCore.Portable</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0' ">
     <VisualStudioVersion>11.0</VisualStudioVersion>
